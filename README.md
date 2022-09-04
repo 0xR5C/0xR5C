@@ -1,3 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif"
+</div>
+
+<div id="badges">
+
+<img src="https://komarev.com/ghpvc/?username=0xR5C&style=flat-square&color=blue" alt=""/>
+
+</div>
+
 ### Hi there 👋
 
 <!--
