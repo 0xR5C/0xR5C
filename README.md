@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-Passionate about Cyber Security, currently looking for an IT Security internship and grinding CTFs and HackTheBox.
+Cyber Security Mentorship @ PWC Greece, grinding CTFs and HackTheBox.
 <!--
 **0xR5C/0xR5C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
